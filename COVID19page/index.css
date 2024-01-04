@@ -1,0 +1,90 @@
+.bg-container{
+    background-color: #ffffff;
+    background-size: cover;
+    height:100vh;
+    border-radius: 5px;
+    border-style: solid;
+    border-width:20px;
+    border-color: #0967d219;
+    padding:10px;
+    
+}
+.main-heading{
+    color:#323f4b;
+    font-family:'Roboto';
+    font-size:30px;
+    font-weight: bold;
+    padding:10px;
+}
+.know-more-btn{
+    color:white;
+    font-size:20px;
+    border-radius: 10px;
+    height:50px;
+    width:150px;
+    padding:10px;
+}
+.top-image{
+    height:200px;
+    width:200px;
+    padding:10px;
+}
+.second-card{
+    background-color: #0967d219;
+    border-radius:10px;
+    border-width: 0px;
+    margin:10px;
+    padding:10px;
+}
+.para{
+    color:#707070;
+    font-family: 'Roboto';
+    font-size:25px;
+    padding-left:10px;
+}
+.first-con{
+    background-color: #3ebd93;
+    border-radius:15px;
+    border-width: 0px;
+    padding:10px;
+    height:300px;
+    width:400px;
+    margin:10px;
+    text-align: center;
+}
+
+.dry-cough-para{
+    color:#ffffff;
+    font-family: 'Roboto';
+    font-size:25px;
+    padding-left:10px;
+    
+
+}
+.second-con{
+    background-color: #e668a7;
+    border-radius:15px;
+    border-width: 0px;
+    padding:10px;
+    height:300px;
+    width:400px;
+    margin:10px;
+    text-align: center;
+}
+.third-con{
+    background-color: #a368fc;
+    border-radius:15px;
+    border-width: 0px;
+    padding:10px;
+    height:300px;
+    width:400px;
+    margin:10px;
+    text-align: center;
+}
+.third-card{
+    background-color: #e12d3919;
+    border-radius:10px;
+    border-width: 0px;
+    margin:10px;
+    padding:10px;
+}
